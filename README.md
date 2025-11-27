@@ -1,3 +1,13 @@
+# Inventory Management | Next + postgreSQL
+
+<div align="center">
+  <br />
+    <img src="./public/inventory-cover.png" alt="Project Banner" href="https://github.com/m7md3baset74">
+  <br />
+  <h3 align="center">Full-stack inventory management app with secure auth and responsive dashboard</h3>
+</div>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
