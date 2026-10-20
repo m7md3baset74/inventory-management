@@ -20,12 +20,14 @@ export default function Home() {
             >
               Sign In
             </Link>
-            <Link
-              href="#"
+            <a
+              href="https://github.com/m7md3baset74/inventory-management"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-white text-purple-600 px-8 py-3 rounded-lg font-semibold border-2 border-purple-600 hover:bg-purple-50 transition-colors"
             >
               Learn More
-            </Link>
+            </a>
           </div>
         </div>
       </div>
